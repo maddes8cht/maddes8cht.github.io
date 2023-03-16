@@ -1,6 +1,5 @@
 theme: Minima
 title: Maddes8cht Github Page
 description: All my Github stuff
-# alternative: markdown: gfm
 markdown: kramdown
 show_downloads: [true]
