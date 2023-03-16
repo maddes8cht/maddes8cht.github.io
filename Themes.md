@@ -3,7 +3,7 @@
 # Cayman
 # Dinky
 # Hacker
-# Leap day
+# Leap-day
 # Merlot
 # Midnight
 # Minima
