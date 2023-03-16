@@ -2,6 +2,8 @@
 ## of all the possible themes
 
 
-* Modernist![Modernist](./screenshots/Modernist.jpg)
-![Slate](./screenshots/Slate.jpg)
-![Tactile](./screenshots/Tactile.jpg)
+* Architect ![Architect](./Screenshots/Architect.jpg)
+* Cayman ![Cayman](./Screenshots/Cayman.jpg)
+* Modernist![Modernist](./Screenshots/Modernist.jpg)
+![Slate](./Screenshots/Slate.jpg)
+![Tactile](./Screenshots/Tactile.jpg)
