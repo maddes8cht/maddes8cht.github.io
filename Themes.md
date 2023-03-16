@@ -1,3 +1,6 @@
+---
+title: Themes
+---
 # Possible Themes
 -----------------
 * Architect
