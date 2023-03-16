@@ -7,3 +7,16 @@ I work with Blender, Python, C++ with msys2, and I am excited about new AI techn
 # [Themes](Themes.md)
 ![vscode](https://source.unsplash.com/800x90/?vscode)
 ![blender](https://source.unsplash.com/800x110/?blender3d)
+
+## Codebox
+```lang-python
+def fibonacci(n):
+    '''
+    generate a fibonacci sequence up to n
+    '''
+    val_a=0
+    val_b=1
+    for i in range(n):
+        val_a, val_b = val_b, val_a + val_b
+        yield val_b
+```
