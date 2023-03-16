@@ -2,7 +2,7 @@
 title: Screenshots
 ---
 * Inhalt
-{:toc}
+{: toc}
 
 # Screenshots section
 ## of all the possible themes
