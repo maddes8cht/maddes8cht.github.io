@@ -9,7 +9,7 @@ I work with Blender, Python, C++ with msys2, and I am excited about new AI techn
 ![blender](https://source.unsplash.com/800x110/?blender3d)
 
 ## Codebox
-```lang-python
+```python
 def fibonacci(n):
     '''
     generate a fibonacci sequence up to n
