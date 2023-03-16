@@ -6,6 +6,8 @@
 
 ![vscode](https://source.unsplash.com/800x160/?vscode)
 ![blender3d](https://source.unsplash.com/800x190/?blender3d)
-<!-- ![vscode](https://source.unsplash.com/800x220/?vscode)
+<!-- 
+![python](https://source.unsplash.com/800x160/?python)
+![vscode](https://source.unsplash.com/800x220/?vscode)
 ![gnu](https://source.unsplash.com/800x250/?gnu)
 -->
