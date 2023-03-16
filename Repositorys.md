@@ -2,12 +2,12 @@
 title: Repos
 ---
 {:.no_toc}
-
 # Repositories
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
-# Full Repo Index
+{:.no_toc}
+# extended Repo Index
 * Inhalt
 {:toc}
 {% for repository in site.github.public_repositories %}
