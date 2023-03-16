@@ -6,5 +6,5 @@
 
 ![vscode](https://source.unsplash.com/800x200/?vscode)
 ![blender3d](https://source.unsplash.com/800x200/?blender3d)
-![vscode](https://source.unsplash.com/800x450/?vscode)
-![gnu](https://source.unsplash.com/800x450/?gnu)
+![vscode](https://source.unsplash.com/800x200/?vscode)
+![gnu](https://source.unsplash.com/800x200/?gnu)
