@@ -1,6 +1,9 @@
 ---
 title: Screenshots
+toc: true
 ---
+
+{%toc%}
 # Screenshots section
 ## of all the possible themes
 

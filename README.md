@@ -8,7 +8,11 @@ I work with Blender, Python, C++ with msys2, and I am excited about new AI techn
 ![vscode](https://source.unsplash.com/800x90/?vscode)
 ![blender](https://source.unsplash.com/800x110/?blender3d)
 
+I like the clean and customizable interface of the minima theme.
+
+Here is a simple 
 ## Codebox
+with Syntax highlighting for Python:
 ```python
 def fibonacci(n):
     '''
