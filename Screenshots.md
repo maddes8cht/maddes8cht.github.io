@@ -10,6 +10,7 @@
 * Merlot ![Merlot](./Screenshots/Merlot.jpg)
 * Midnight ![Midnight](./Screenshots/Midnight.jpg)
 * Minima ![Minima](./Screenshots/Minima.jpg)
+* Minimal ![Minimal](./Screenshots/Minimal.jpg)
 * Modernist ![Modernist](./Screenshots/Modernist.jpg)
 * Slate ![Slate](./Screenshots/Slate.jpg)
 * Tactile ![Tactile](./Screenshots/Tactile.jpg)
