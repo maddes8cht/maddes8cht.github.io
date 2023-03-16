@@ -1,7 +1,7 @@
 ---
 title: Screenshots
 ---
-* Inhalt:
+* Inhalt
 {:toc}
 
 # Screenshots section
