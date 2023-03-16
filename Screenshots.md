@@ -2,4 +2,6 @@
 ## of all the possible themes
 
 
-![Modernist](./screenshots/modernist.jpg)
+* Modernist![Modernist](./screenshots/Modernist.jpg)
+![Slate](./screenshots/Slate.jpg)
+![Tactile](./screenshots/Tactile.jpg)
