@@ -1,4 +1,4 @@
-# possible themes
+# Possible Themes
 -----------------
 * Architect
 * Cayman
