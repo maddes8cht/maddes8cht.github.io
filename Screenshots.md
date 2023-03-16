@@ -4,6 +4,8 @@
 
 * Architect ![Architect](./Screenshots/Architect.jpg)
 * Cayman ![Cayman](./Screenshots/Cayman.jpg)
-* Modernist![Modernist](./Screenshots/Modernist.jpg)
-![Slate](./Screenshots/Slate.jpg)
-![Tactile](./Screenshots/Tactile.jpg)
+* Dinky ![Dinky](./Screenshots/)
+* Modernist ![Modernist](./Screenshots/Modernist.jpg)
+* Slate ![Slate](./Screenshots/Slate.jpg)
+* Tactile ![Tactile](./Screenshots/Tactile.jpg)
+
