@@ -8,6 +8,8 @@
 * Hacker ![Hacker](./Screenshots/Hacker.jpg)
 * Leap-day ![Hacker](./Screenshots/Leap-day.jpg)
 * Merlot ![Merlot](./Screenshots/Merlot.jpg)
+* Midnight ![Midnight](./Screenshots/Midnight.jpg)
+* Minima ![Minima](./Screenshots/Minima.jpg)
 * Modernist ![Modernist](./Screenshots/Modernist.jpg)
 * Slate ![Slate](./Screenshots/Slate.jpg)
 * Tactile ![Tactile](./Screenshots/Tactile.jpg)
