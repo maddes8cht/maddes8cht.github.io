@@ -5,5 +5,5 @@
 <a href="https://stackexchange.com/users/26485911"><img src="https://stackexchange.com/users/flair/26485911.png" width="208" height="58" alt="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ![vscode](https://source.unsplash.com/800x160/?vscode)
-![blender3d](https://source.unsplash.com/800x190/?blender3d)
+![blender](https://source.unsplash.com/800x190/?blender3d)
 ![vscode](https://source.unsplash.com/800x210/?vscode)
