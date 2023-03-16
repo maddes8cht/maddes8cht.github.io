@@ -7,6 +7,7 @@
 * Dinky ![Dinky](./Screenshots/Dinky.jpg)
 * Hacker ![Hacker](./Screenshots/Hacker.jpg)
 * Leap-day ![Hacker](./Screenshots/Leap-day.jpg)
+* Merlot ![Merlot](./Screenshots/Merlot.jpg)
 * Modernist ![Modernist](./Screenshots/Modernist.jpg)
 * Slate ![Slate](./Screenshots/Slate.jpg)
 * Tactile ![Tactile](./Screenshots/Tactile.jpg)
