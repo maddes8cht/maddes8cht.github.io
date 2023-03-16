@@ -4,8 +4,10 @@
 {% endfor %}
 # Ausführlicher
 {% for repository in site.github.public_repositories %}
-  <h3>{{ repository.name }}</h3>
-  <p>{{ repository.description }}</p>
-  <p>Sprache: {{ repository.language }}</p>
-  <p>Sterne: {{ repository.stargazers_count }}</p>
+  ## [{{ repository.name }}]({{ repository.html_url }})
+  * {{ repository.description }}
+  * Sprache: {{ repository.language }}
+  * Sterne: {{ repository.stargazers_count }}
+{{ repository.homepage_url }}  
+
 {% endfor %}
