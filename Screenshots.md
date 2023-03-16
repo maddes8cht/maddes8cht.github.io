@@ -1,7 +1,7 @@
 ---
 title: Screenshots
 ---
-
+{:.no_toc}
 # Screenshots section
 ## of all the possible themes
 
