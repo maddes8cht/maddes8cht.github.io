@@ -1,5 +1,6 @@
 ---
 title: Screenshots
+toc: true
 ---
 
 # Screenshots section

@@ -1,5 +1,6 @@
 ---
 title: Repos
+toc: true
 ---
 # Repositories
 {% for repository in site.github.public_repositories %}
