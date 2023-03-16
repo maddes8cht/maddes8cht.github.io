@@ -1,13 +1,13 @@
 ---
 title: Repos
 ---
-1. Inhalt
-{:toc}
 # Repositories
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
 # Ausführlicher
+1. Inhalt
+{:toc}
 {% for repository in site.github.public_repositories %}
 ## [{{ repository.name }}]({{ repository.html_url }})
   {{ repository.description }}
