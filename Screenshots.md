@@ -3,6 +3,7 @@ title: Screenshots
 ---
 {:.no_toc}
 # Screenshots section
+{:.no_toc}
 ## of all the possible themes
 
 * Inhalt
