@@ -22,9 +22,3 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
-# Code with marked lines
-{% highlight ruby linenos mark_lines="2" %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
