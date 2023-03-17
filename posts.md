@@ -1,5 +1,5 @@
 ---
-title: posts
+title: Posts
 ---
 <ul>
   {% for post in site.posts %}
