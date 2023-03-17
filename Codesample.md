@@ -1,6 +1,7 @@
 ---
 title: codesample
 ---
+@import "native.css";
 * Inhalt
 {: toc }
 # Code
