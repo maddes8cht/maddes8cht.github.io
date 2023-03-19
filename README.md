@@ -1,6 +1,4 @@
 ---
-title: ReadMe
-layout: home
 permalink: /
 exclude: true
 ---
