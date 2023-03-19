@@ -2,11 +2,13 @@
 remote_theme: jekyll/minima
 title: Maddes8cht
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Maddes8cht
+  # email: your-email@domain.com
 
 description: >
   All my Github stuff, my Gist, and others
+  [GitHub](https://github.com/maddes8cht)
+  [Gist](https://gist.github.com/maddes8cht)
 
 markdown: kramdown
 # show_downloads: [true]
