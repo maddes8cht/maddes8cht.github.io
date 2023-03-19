@@ -3,6 +3,7 @@
 <a href="https://stackexchange.com/users/26485911"><img src="https://stackexchange.com/users/flair/26485911.png" width="208" height="58" alt="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 I work with Blender, Python, C++ with msys2, and I am excited about new AI technology.
+Right now, this page is pretty random, as it's only purpose is to learn how to deal with jekyyl on GiHub Pages.
 * Images
 * Repos
 * [Screenshots](Screenshots.md) shows how this site may look at all the available standard jekyl themes on GitHub Pages
