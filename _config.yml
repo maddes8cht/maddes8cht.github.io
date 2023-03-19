@@ -14,7 +14,7 @@ markdown: kramdown
 # show_downloads: [true]
 
 minima:
-  skin: solarized
+  skin: solarized-dark
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
