@@ -1,5 +1,13 @@
 theme: Minima
-title: Maddes8cht Github Page
-description: All my Github stuff
+title: Maddes8cht
+author:
+  name: Maddes8cht
+  email: mathias.bachmann@gmx.net
+
+
+description: >
+  [All my Github stuff](https://github.com/maddes8cht)
+  [my Gist](https://gist.github.com/maddes8cht)
+
 markdown: kramdown
-show_downloads: [true]
+# show_downloads: [true]
