@@ -9,16 +9,12 @@ exclude: true
 
 I work with Blender, Python, C++ with msys2, and I am excited about new AI technology.
 Right now, this page is pretty random, as it's only purpose is to learn how to deal with [Jekyyl](https://jekyllrb.com/) on [GiHub Pages](https://pages.github.com/).
-* Images
-* Repos
-* [Screenshots](Screenshots.md) shows how this site may look at all the available standard jekyl themes on GitHub Pages
-* [Themes](Themes.md) lists all the available standard themes on GitHub Pages
 
-![vscode](https://source.unsplash.com/800x90/?vscode)
 ![blender](https://source.unsplash.com/800x110/?blender3d)
 
 I like the clean and customizable interface of the minima theme. I'm still exploring what one can do with it - it's amazing!
 
+![vscode](https://source.unsplash.com/800x90/?vscode)
 Here is a simple 
 ## Codebox
 with Syntax highlighting for Python:
@@ -33,3 +29,4 @@ def fibonacci(n):
         val_a, val_b = val_b, val_a + val_b
         yield val_b
 ```
+![blog](https://source.unsplash.com/800x90/?blog)
