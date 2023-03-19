@@ -1,6 +1,6 @@
 ---
 title: Images
-layout: base
+layout: page
 ---
 ![vscode](https://source.unsplash.com/800x60/?vscode)
 ![python](https://source.unsplash.com/800x80/?python)

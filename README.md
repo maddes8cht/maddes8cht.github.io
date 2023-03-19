@@ -1,6 +1,5 @@
 ---
 title: ReadMe
-layout: home
 permalink: /
 ---
 
