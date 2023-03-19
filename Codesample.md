@@ -1,5 +1,6 @@
 ---
-title: codesample
+title: Code
+layout: page
 ---
 @import "native.css";
 * Inhalt

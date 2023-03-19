@@ -1,5 +1,6 @@
 ---
 title: Repos
+layout: base
 ---
 {:.no_toc}
 # Repositories
