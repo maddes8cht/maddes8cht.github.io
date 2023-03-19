@@ -1,5 +1,6 @@
 ---
 title: Themes
+layout: page
 ---
 # Possible Themes
 -----------------

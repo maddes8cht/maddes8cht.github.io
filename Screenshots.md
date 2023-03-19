@@ -1,5 +1,6 @@
 ---
-title: Screenshots
+title: Screens
+layout: post
 ---
 {:.no_toc}
 # Screenshots section
