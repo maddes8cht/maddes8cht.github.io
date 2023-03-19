@@ -8,6 +8,8 @@ exclude: true
 
 * Inhalt
 {: toc}
+
+# about
 I work with Blender, Python, C++ with msys2, and I am excited about new AI technology.
 Right now, this page is pretty random, as it's only purpose is to learn how to deal with [Jekyyl](https://jekyllrb.com/) on [GiHub Pages](https://pages.github.com/).
 
