@@ -7,8 +7,10 @@ author:
 
 description: >
   All my Github stuff, my Gist, and others
-  <a href="https://github.com/maddes8cht"> GitHub </a>
-  <a href="https://gist.github.com/maddes8cht"> </a>
+  <ul>
+    <li><a href="https://github.com/maddes8cht"> GitHub </a></li>
+    <li><a href="https://gist.github.com/maddes8cht"> Gist </a></li>
+  </ul>
 
 markdown: kramdown
 # show_downloads: [true]
