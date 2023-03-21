@@ -11,27 +11,27 @@ layout: post
 {:toc}
 
 # Architect 
-![Architect](./Screenshots/Architect.jpg)
+![Architect](./assets/images/Screenshots/Architect.jpg)
 # Cayman 
-![Cayman](./Screenshots/Cayman.jpg)
+![Cayman](./assets/images/Screenshots/Cayman.jpg)
 # Dinky 
-![Dinky](./Screenshots/Dinky.jpg)
+![Dinky](./assets/images/Screenshots/Dinky.jpg)
 # Hacker 
-![Hacker](./Screenshots/Hacker.jpg)
+![Hacker](./assets/images/Screenshots/Hacker.jpg)
 # Leap-day 
-![Leap-day](./Screenshots/Leap-day.jpg)
+![Leap-day](./assets/images/Screenshots/Leap-day.jpg)
 # Merlot 
-![Merlot](./Screenshots/Merlot.jpg)
+![Merlot](./assets/images/Screenshots/Merlot.jpg)
 # Midnight 
-![Midnight](./Screenshots/Midnight.jpg)
+![Midnight](./assets/images/Screenshots/Midnight.jpg)
 # Minima 
-![Minima](./Screenshots/Minima.jpg)
+![Minima](./assets/images/Screenshots/Minima.jpg)
 # Minimal 
-![Minimal](./Screenshots/Minimal.jpg)
+![Minimal](./assets/images/Screenshots/Minimal.jpg)
 # Modernist 
-![Modernist](./Screenshots/Modernist.jpg)
+![Modernist](./assets/images/Screenshots/Modernist.jpg)
 # Slate 
-![Slate](./Screenshots/Slate.jpg)
+![Slate](./assets/images/Screenshots/Slate.jpg)
 # Tactile 
-![Tactile](./Screenshots/Tactile.jpg)
+![Tactile](./assets/images/Screenshots/Tactile.jpg)
 
