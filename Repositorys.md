@@ -16,6 +16,6 @@ layout: page
   {{ repository.description }}
   * Sprache: {{ repository.language }}
   * Sterne: {{ repository.stargazers_count }}
-{{ repository.homepage_url }}  
+{{ repository.homepage_url }}
 
 {% endfor %}
