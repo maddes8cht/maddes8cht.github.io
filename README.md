@@ -19,18 +19,5 @@ I like the clean and customizable interface of the minima theme. I'm still explo
 
 ![vscode](https://source.unsplash.com/800x90/?vscode)
 Here is a simpleS
-## Codebox
-with Syntax highlighting for Python:
-```python
-def fibonacci(n):
-    '''
-    generate a fibonacci sequence up to n
-    '''
-    val_a=0
-    val_b=1
-    for i in range(n):
-        val_a, val_b = val_b, val_a + val_b
-        yield val_b
-```
 # Blog
 ![blog](https://source.unsplash.com/800x90/?blog)
