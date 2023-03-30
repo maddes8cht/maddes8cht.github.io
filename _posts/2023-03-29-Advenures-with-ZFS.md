@@ -9,7 +9,7 @@ After I had replaced these successively with 4 TB disks, I had expected to be ab
 But unfortunately it did not work for me.
 I get the following output from the command line:
 
-```
+```bash
 zpool status
   pool: ZFS-Pool
  state: ONLINE
@@ -25,14 +25,14 @@ config:
             ada2    ONLINE       0     0     0
 ```
 
-```
+```bash
 zfs list
 NAME       USED  AVAIL  REFER  MOUNTPOINT
 ZFS-Pool  5.67T  1.98T  5.54T  /mnt/ZFS-Pool
 
 ```
 
-```
+```bash
 zpool list -v
 NAME         SIZE  ALLOC   FREE  CKPOINT  EXPANDSZ   FRAG    CAP  DEDUP  HEALTH  ALTROOT
 ZFS-Pool    10.9T  7.81T  3.07T        -     3.62T    25%    71%  1.00x  ONLINE  -
@@ -47,13 +47,13 @@ There is a discrepancy in the capacity that exists in the filesystem and what th
 It took me a long time to get a closer look at the meaning of the column 'EXPANDSZ': This is the size to which the existing device can be expanded.
 
 The usage is
-```
+```lang-bash
 zpool online [-e] <pool> <device> ...
 ```
 
 so for my pool
 
-```
+```lang-bash
 zpool online -e ZFS-Pool ada0
 zpool online -e ZFS-Pool ada1
 zpool online -e ZFS-Pool ada2
@@ -61,13 +61,13 @@ zpool online -e ZFS-Pool ada3
 ```
 for all disks. And lo and behold, now it worked:
 
-```
+```language-bash
  zfs list
 NAME       USED  AVAIL  REFER  MOUNTPOINT
 ZFS-Pool  5.68T  4.52T  5.55T  /mnt/ZFS-Pool
 ```
 
-```
+```language-bash
 zpool list -v
 NAME         SIZE  ALLOC   FREE  CKPOINT  EXPANDSZ   FRAG    CAP  DEDUP  HEALTH  ALTROOT
 ZFS-Pool    14.5T  7.81T  6.69T        -         -    19%    53%  1.00x  ONLINE  -
