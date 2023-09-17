@@ -18,6 +18,6 @@ Right now, this page is pretty random, as it's only purpose is to learn how to d
 I like the clean and customizable interface of the minima theme. I'm still exploring what one can do with it - it's amazing!
 
 ![vscode](https://source.unsplash.com/800x90/?vscode)
-Here is a simpleS
+Here is my
 # Blog
 ![blog](https://source.unsplash.com/800x90/?blog)
