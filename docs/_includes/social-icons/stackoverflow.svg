@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="124"
+   height="124"
+   viewBox="0 0 124 124"
+   version="1.1"
+   id="svg2541"
+   sodipodi:docname="stackoverflow.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2545" />
+  <sodipodi:namedview
+     id="namedview2543"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8553055"
+     inkscape:cx="304.53206"
+     inkscape:cy="61.984402"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="154"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2539" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g2539">
+    <polygon
+       fill="#bbbbbb"
+       points="0,124 0,80 11,80 11,113 88,113 88,80 99,80 99,124 "
+       id="polygon2535" />
+    <path
+       fill="#f58025"
+       fill-rule="nonzero"
+       d="m 22.987891,76.73 54.025,11.355 2.271,-10.8 -54.025,-11.36 z m 7.149,-25.869 50.046,23.308 4.662,-10.009 -50.047,-23.308 z m 13.848,-24.553 42.428,35.331 7.066,-8.485 -42.428,-35.33 z m 27.387,-26.116 -8.86,6.59 32.948,44.3 8.859999,-6.589 z M 22,102 H 77 V 91 H 22 Z"
+       id="path2537" />
+  </g>
+</svg>
