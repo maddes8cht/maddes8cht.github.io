@@ -1,6 +1,6 @@
 ---
 title: About
-layout: home
+layout: page
 ---
 # About me
 Hey there, I'm maddes8cht, and I'm on a journey of exploration. My path has led me through the fascinating realms and possibilities of Blender, Python, C++, machine learning, and  Visual Studio Code.

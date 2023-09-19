@@ -1,6 +1,6 @@
 ---
 title: History
-layout: home
+layout: page
 ---
 # Navigating the Maze of Open Source Licensing in AI: A Quest for True OSI Compliance
 
