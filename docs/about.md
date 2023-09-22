@@ -14,5 +14,6 @@ But it's not just about the code for me. 🌱 It's about a vision of Open Source
 💡 **Stack Overflow Top Contributor:** Being in the top 3% of contributors in the current year, I have enjoyed interacting with other enthusiasts, and I look forward to more insightful discussions.
 
 🌐 **GitHub:** Never created a general useful project myself, but actively contributing in some: [GitHub/maddes8cht](https://github.com/maddes8cht)
+![about](https://source.unsplash.com/800x110/?connect)
 
 🔗 **Connect with me:** Let's collaborate and start this exciting journey together. Whether on [Hugging Face](https://huggingface.co/maddes8cht), [Stack Overflow](https://stackoverflow.com/users/20124484/maddes8cht), or [GitHub](https://github.com/maddes8cht), we can shape the future of open source AI, one line of code at a time.

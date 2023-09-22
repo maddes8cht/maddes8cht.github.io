@@ -12,13 +12,12 @@ exclude: true
 
 # about
 I love to work with Blender, Python, C++, and I am excited about new AI technology.
-![blender](https://source.unsplash.com/800x110/?blender3d)
+![vscode](https://source.unsplash.com/800x90/?vscode)
 
 AI is about to change our world, and it's up to us to shape it and give it direction.
 It's my profound beliefthat the future of AI should be open, transparent, and accessible to all.
 
 
 
-![vscode](https://source.unsplash.com/800x90/?vscode)
 # Blog
 ![blog](https://source.unsplash.com/800x90/?blog)

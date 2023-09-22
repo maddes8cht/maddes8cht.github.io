@@ -3,13 +3,16 @@ remote_theme: jekyll/minima
 title: Maddes8cht
 author:
   name: Maddes8cht
-  # email: your-email@domain.com
+  email: mathias.bachmann@gmx.net
 
 description: >
-  All my Github stuff, my Gist, and others
+  
   <ul class="contact-list">
-    <li class="p-name"><a href="https://github.com/maddes8cht"> GitHub </a></li>
-    <li class="p-name"><a href="https://gist.github.com/maddes8cht"> Gist </a></li>
+    (famous) citations:
+    <li class="p-name">Software is like sex; It's better when it's free</li>
+    <li class="p-name"> &nbsp; &nbsp; <em>Linus Thorvalds</em></li>
+    <li class="p-name">Blender is about People</li>
+    <li class="p-name"> &nbsp; &nbsp; <em>Ton Rosendaal</em></li>
   </ul>
 
 markdown: kramdown
