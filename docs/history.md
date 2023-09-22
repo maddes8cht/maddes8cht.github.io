@@ -2,6 +2,9 @@
 title: History
 layout: page
 ---
+* Inhalt
+{: toc}
+
 # Navigating the Maze of Open Source Licensing in AI: A Quest for True OSI Compliance
 
 *Posted on 19.09.2023 by maddes8cht*
