@@ -4,8 +4,13 @@ exclude: true
 ---
 
 <a href="https://stackexchange.com/users/26485911"><img src="https://stackexchange.com/users/flair/26485911.png" width="208" height="58" alt="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for maddes8cht on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<<<<<<< HEAD
 [![GitHub](/assets/buttons/github-button.jpg)](https://github.com/maddes8cht)
 [![HuggingFace](/assets/buttons/huggingface-button.jpg)](https://huggingface.co/maddes8cht)
+=======
+![GitHub](/assets/buttons/github-button.jpg)
+![HuggingFace](/assets/buttons/huggingface-button.jpg)
+>>>>>>> 3dbb391b0b73ae525a9776841d7ee230c328fe82
 
 * Inhalt
 {: toc}
