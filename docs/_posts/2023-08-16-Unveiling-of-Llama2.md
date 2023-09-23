@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Unveiling of Llama 2: A Paradigm Shift in AI Models
-Excerpt: In the ever-evolving realm of artificial intelligence, there are moments that send ripples through the community—moments that redefine the boundaries of what's possible and challenge our understanding of open source principles. The release of Llama 2 in July 2023 was one such moment, an unexpected leap into uncharted territory.
+excerpt: In the ever-evolving realm of artificial intelligence, there are moments that send ripples through the community—moments that redefine the boundaries of what's possible and challenge our understanding of open source principles. The release of Llama 2 in July 2023 was one such moment, an unexpected leap into uncharted territory.
 ---
 * contents
 {: toc}
