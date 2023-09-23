@@ -5,7 +5,7 @@ exclude: true
 
 # Glossary
 
-AI (Artificial Intelligence)
+***AI (Artificial Intelligence)***
 : The simulation of human intelligence processes by machines, especially computer systems.
 
 Blender
