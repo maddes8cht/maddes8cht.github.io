@@ -19,6 +19,7 @@ However, I can't do it alone. I'm well aware that this mission comes with its ch
 
 Please note that my focus is exclusively on quantizing truly free models, such as Falcon up to 40b, MPT, and others. This means of course:
 ![No Llamas](/assets/images/NoLlamas.png)
+
 No Llamas. No Llama 2. And, sadly, also no Falcon 180b. Llama models are well-supported elsewhere.
 # Blog
 ![blog](https://source.unsplash.com/800x90/?blog)
