@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glossary
-permalink: /glossary/
+permalink: /glossary.html
 exclude: true
 ---
 
