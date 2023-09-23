@@ -6,7 +6,7 @@ exclude: true
 * contents
 {: toc}
 
-# about
+# About
 I love to work with Blender, Python, C++, and I am excited about new AI technology.
 ![vscode](https://source.unsplash.com/800x90/?vscode)
 

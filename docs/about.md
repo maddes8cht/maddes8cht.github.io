@@ -1,8 +1,7 @@
 ---
-title: About
+title: About me
 layout: page
 ---
-# About me
 Hey there, I'm maddes8cht, and I'm on a journey of exploration. My path has led me through the fascinating realms and possibilities of Blender, Python, C++, machine learning, and  Visual Studio Code.
 
 But it's not just about the code for me. 🌱 It's about a vision of Open Source as a driving force in the world of AI. I'm on a mission to bridge the gap between open-source principles and AI models. I believe in the power of freely accessible knowledge and resources.
