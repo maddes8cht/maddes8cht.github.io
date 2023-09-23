@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Unveiling of Llama 2: A Paradigm Shift in AI Models
+title: "The Unveiling of Llama 2: A Paradigm Shift in AI Models"
 ---
 
 * contents

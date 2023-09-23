@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ah, and you think the images on my site are somewhat - random ??"
+title: "ah, and you think the images on my site are somewhat - random ??"
 ---
 
 * contents
