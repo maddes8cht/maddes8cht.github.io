@@ -3,9 +3,6 @@ title: Posts
 layout: page
 ---
 
-* contents
-{: toc}
-
 <ul>
   {% for post in site.posts %}
     <li>
