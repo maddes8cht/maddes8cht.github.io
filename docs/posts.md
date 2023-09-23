@@ -1,6 +1,6 @@
 ---
 title: Posts
-layout: page
+layout: home
 ---
 
 <ul>
