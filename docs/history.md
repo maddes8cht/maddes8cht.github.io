@@ -28,12 +28,11 @@ As the AI community grappled with the implications of Llama and its progeny, a p
 3. **MPT**: An independent model, offered in 7B and 30B sizes, under creative commons licenses (&copy;CC-By-SA-3.0 and CC-By-NC-SA-4.0). 
 
 4. **Falcon**: Originating from the United Arab Emirates, Falcon was initially released under its own license but soon transitioned to the Apache 2 license. It is available in sizes of 7B and 40B. In the realm of "true" free models, Falcon shines as a powerful contender.
-![Falcon](https://source.unsplash.com/800x140/?falcon)
 
+![Falcon](https://source.unsplash.com/800x140/?falcon)
 ### Llama 2: The Open Source Conundrum
 
 In July 2023, Meta unveiled Llama 2, the next generation of their language model. This release marked a pivotal moment in the AI landscape. Llama 2, an open-source model, offered its vast potential to both researchers and commercial users, free of charge. Ranging from 7B to a staggering 70B parameters, these models were trained on 2 trillion tokens, and doubled the context length of their predecessor.
-![open source](https://source.unsplash.com/800x140/?freedom)
 
 However, this release stirred debates about whether Llama 2 truly qualifies as open source. Critics argue that Meta's licensing terms contain certain restrictions incongruent with the open-source definition. The Open Source Initiative (OSI) underscored that Llama 2 should not be classified as open source, emphasizing that Meta had misconstrued the term "open source" by adding conditions and limitations.
 
@@ -44,6 +43,8 @@ The license agreement for Llama 2, published on July 18, 2023, grants users a li
 Parallel to the Llama saga, a project named 'Llama.cpp' emerged on GitHub. This project focused on quantization and inference for Llama models and later expanded its scope to encompass other "free" models suitable for consumer hardware. Hugging Face became a hub for continuously releasing new fine-tuned models based on this technology. The interest in these developments grew exponentially.
 
 The symbiotic relationship between Llama.cpp and Hugging Face has created a substantial pool of fine-tuned models accessible to consumer PCs. An increasing number of open-source software projects now harness this software and these models in novel and diverse contexts.
+
+![open source](https://source.unsplash.com/800x140/?freedom)
 
 ### Embarking on the Quest
 
