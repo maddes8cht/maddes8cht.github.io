@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "ah, and you think the images on my site are somewhat - random ??"
+excerpt: You may have noticed that the images often appear to be random or loosely related to the content. This is how and why:
 ---
-* Inhalt
+* contents
 {: toc}
 
 ### Have you ever visited this website and found yourself wondering about the relevance of the images to the content?
@@ -19,5 +20,10 @@ While this approach might sound unconventional, it has its own charm. It injects
 ![magic](https://source.unsplash.com/800x110/?magic)
 
 Sure, there are moments when the images may seem a bit off-kilter or unrelated, but that's part of the charm. It's a reminder that not everything in life—and on the internet—needs to be meticulously planned and organized. Sometimes, embracing randomness can lead to delightful discoveries.
+# The Quest for Eye-Catching Visuals
+Visual content plays a crucial role in web design. It captures visitors' attention, conveys information, and enhances the overall user experience. However, finding the perfect image to complement every piece of content can be a daunting task. It may involves hours of searching, editing, and optimizing. This is where the Unsplash API comes to the rescue.
+![unsplash](https://source.unsplash.com/800x110/?unsplash)
 # Unleashing the Power of Unsplash
-[Unsplash](unsplash.com) is a treasure trove of high-quality, royalty-free images contributed by talented photographers from around the world. It offers a vast collection of photos on virtually every topic imaginable. But here's the twist: instead of painstakingly curating images for each article, I've taken a somewhat unconventional approach.
+[Unsplash](unsplash.com) is a treasure trove of high-quality, royalty-free images contributed by talented photographers from around the world. It offers a vast collection of photos on virtually every topic imaginable. But here's the twist: instead of painstakingly curating images for each article, I've taken a somewhat unconventional approach. 
+
+And i think it's fun.
