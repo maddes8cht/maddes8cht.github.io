@@ -2,19 +2,16 @@
 permalink: /glossary.html
 exclude: true
 ---
-
-# Glossary
-
 ***AI (Artificial Intelligence)***
 : The simulation of human intelligence processes by machines, especially computer systems.
 
-Blender
+***Blender***
 : A popular open-source 3D computer graphics software used for creating animated films, visual effects, and more.
 
-Creative Commons License
+***Creative Commons License***
 : A set of licenses that allow creators to share their work under specific terms and conditions.
 
-Fine-tuning
+***Fine-tuning***
 : The process of further training a pre-trained AI model on a specific task or dataset.
 
 Falcon
