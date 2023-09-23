@@ -3,6 +3,7 @@ layout: post
 title:  "ah, and you think the images on my site are somewhat - random ??"
 # excerpt: You may have noticed that the images often appear to be random or loosely related to the content. This is how and why:
 ---
+
 * contents
 {: toc}
 
