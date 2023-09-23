@@ -21,7 +21,7 @@ The ability to adapt and fine-tune Llama 2 for specialized domains opened doors 
 
 # The Open Source Conundrum
 
-However, it's crucial to recognize that while Llama 2 touted itself as 'Open Source,' the term 'open source' carried a nuanced interpretation in this context. The licensing structure raised legitimate questions about whether it truly embodied the principles of open source. There are too much restrictions that contradicted the spirit of openness.
+However, it's crucial to recognize that while Llama 2 touted itself as 'Open Source,' the term 'open source' carried a nuanced interpretation in this context. The licensing structure raised legitimate questions about whether it truly embodied the principles of open source. There are too many restrictions that contradicted the spirit of openness.
 
 The Open Source Initiative (OSI) spoke out, asserting that Llama 2 did not meet their criteria for open source status. The debate ignited discussions about the definition of open source itself, as it seemed that the term was being stretched beyond its conventional boundaries. The lines between "open source" and "resources available under certain conditions" is getting blurred, leading to a deeper exploration of what open source should mean in the AI landscape.
 
