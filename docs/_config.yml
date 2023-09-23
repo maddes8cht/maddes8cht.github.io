@@ -15,7 +15,7 @@ description: >
     <li class="p-name"> &nbsp; &nbsp; <em>Ton Rosendaal</em></li>
   </ul>
 
-markdown: gfm
+markdown: kramdown
 # show_downloads: [true]
 
 minima:
